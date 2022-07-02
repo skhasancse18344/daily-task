@@ -1,0 +1,60 @@
+.blog {
+    background-color: rgb(120, 201, 135);
+    height: 250px;
+    text-align: justify;
+    padding: 20px;
+    border: 2px dashed rgb(111, 34, 34);
+    border-radius: 10px;
+}
+
+.blog h1 {
+    color: darkgoldenrod;
+}
+
+.blog small {
+    color: darkred;
+}
+
+.blog p {
+    color: rgb(27, 35, 125);
+}
+
+.card {
+    background-color: rgb(120, 201, 135);
+    height: 250px;
+    text-align: justify;
+    padding: 20px;
+    border: 2px dashed rgb(111, 34, 34);
+    margin: 20px 0px;
+    display: flex;
+    text-align: center;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.card-one {
+    width: 30%;
+    height: 80%;
+    background-color: rgb(22, 48, 61);
+    margin: auto;
+    border-radius: 5px;
+
+}
+
+.card-two {
+    width: 30%;
+    height: 80%;
+    background-color: rgb(22, 48, 61);
+    margin: auto;
+    border-radius: 5px;
+}
+
+.card-three {
+    width: 30%;
+    height: 80%;
+    background-color: rgb(22, 48, 61);
+    margin: auto;
+    border-radius: 5px;
+}
